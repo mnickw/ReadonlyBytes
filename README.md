@@ -1,6 +1,6 @@
 ﻿
 # ﻿Практика «Readonly bytes»
-Репозиторий содержит решения [этой](https://ulearn.me/course/basicprogramming2/Praktika_Eksponentsial_noe_sglazhivanie__c334ede2-2c35-4fcb-94cb-fb1c48e3e7bb) задачи с ulearn.me.
+Репозиторий содержит решения [этой](https://ulearn.me/course/basicprogramming2/Praktika_Readonly_bytes__1a5e39b3-9b7f-46c5-bb3c-ab024f2c8714) задачи с ulearn.me.
 Задачи прошли код-ревью у преподавателя (баллы: 100/100). Все решения курса на максимальный балл также выложены в других репозиториях.
 Ветка unsolved содержит изначальный проект.
 
